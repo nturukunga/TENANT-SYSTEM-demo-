@@ -82,7 +82,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-repo/TenantSystem.git
+git clone https://github.com/nturukunga/TENANT-SYSTEM-demo.git
 Open the solution file in Visual Studio 2022.
 
 Set up the MySQL database:
